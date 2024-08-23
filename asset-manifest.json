@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/courapp/static/css/main.1042075c.css",
+    "main.js": "/courapp/static/js/main.57d43be4.js",
+    "index.html": "/courapp/index.html",
+    "main.1042075c.css.map": "/courapp/static/css/main.1042075c.css.map",
+    "main.57d43be4.js.map": "/courapp/static/js/main.57d43be4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1042075c.css",
+    "static/js/main.57d43be4.js"
+  ]
+}
