@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/courapp/static/css/main.f7a29b11.css",
-    "main.js": "/courapp/static/js/main.ba2c366c.js",
+    "main.css": "/courapp/static/css/main.a9549780.css",
+    "main.js": "/courapp/static/js/main.733bfa70.js",
+    "static/media/medusa.png": "/courapp/static/media/medusa.4d9764a086536ec07d21.png",
     "index.html": "/courapp/index.html",
-    "main.f7a29b11.css.map": "/courapp/static/css/main.f7a29b11.css.map",
-    "main.ba2c366c.js.map": "/courapp/static/js/main.ba2c366c.js.map"
+    "main.a9549780.css.map": "/courapp/static/css/main.a9549780.css.map",
+    "main.733bfa70.js.map": "/courapp/static/js/main.733bfa70.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7a29b11.css",
-    "static/js/main.ba2c366c.js"
+    "static/css/main.a9549780.css",
+    "static/js/main.733bfa70.js"
   ]
 }
